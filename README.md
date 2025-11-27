@@ -1,5 +1,5 @@
 🎲 Snakes & Ladders – Python GUI Game
-<p align="center"> <img src="Snakes-and-Ladders-Bigger.jpg" width="350"> </p> <p align="center"> A modern Snakes & Ladders game built in Python (Tkinter) with animations, dice mechanics, and a full-screen board. </p>
+<p align="center"> <img src="[Snakes-and-Ladders-Bigger.jpg](https://unsplash.com/photos/a-close-up-of-a-game-board-with-dices-on-it-4t95oguiv-s)" width="350"> </p> <p align="center"> A modern Snakes & Ladders game built in Python (Tkinter) with animations, dice mechanics, and a full-screen board. </p>
 🚀 Features
 
 🎨 Modern Tkinter GUI
