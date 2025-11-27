@@ -1,44 +1,45 @@
-🎲 Snakes & Ladders – Python GUI Game
-<p align="center"> <img src="[Snakes-and-Ladders-Bigger.jpg](https://unsplash.com/photos/a-close-up-of-a-game-board-with-dices-on-it-4t95oguiv-s)" width="350"> </p> <p align="center"> A modern Snakes & Ladders game built in Python (Tkinter) with animations, dice mechanics, and a full-screen board. </p>
-🚀 Features
+<div align="center">🎲🐍 Snakes & Ladders – Python GUI Game 🪜🎮</div>
+<div align="center"> A modern, animated, and fully interactive Snakes & Ladders experience built with Python (Tkinter). Smooth gameplay • Smart token movement • Two-player system • Custom dice • Dynamic board. </div>
+<div align="center">
 
-🎨 Modern Tkinter GUI
 
-🧩 Smooth token movement animation
 
-🪜 Ladders & snakes auto-handling
 
-🎲 Custom dice drawing (1–6)
 
-👥 Two-player turn system
 
-🖼️ PNG token images
 
-🖥️ Full-size board background
 
-🏆 Victory popup
+</div>
+🌟 Overview
 
-🧼 Clean OOP code structure
+This project recreates the classic childhood board game Snakes & Ladders in a polished graphical interface.
+Players roll a dice, move their tokens, climb ladders, slide down snakes, and compete to reach 100 exactly.
 
-🎮 How to Play
+Everything — movement, turns, auto-jumps, and dice — is handled with clean animations.
 
-Click Roll Dice
+✨ Features
+🎨 Stunning GUI
 
-Your token moves according to the dice
+Full-screen image-based board
 
-Landing on:
+Smooth coordinated token animation
 
-Ladder → climbs up
+Professional color palette
 
-Snake → slides down
+🎮 Gameplay
 
-Reach exactly 100 to win
+Two-player alternating turns
 
-Turn switches automatically between both players
+Auto movement on snakes and ladders
 
-📦 Requirements
+Custom-drawn dice (1–6)
 
-Install Python 3.8+
-Then install Pillow library:
+Win detection + popup message
 
-pip install pillow
+🧩 Architecture
+
+Clean & modular OOP structure
+
+Easy to extend
+
+PNG-based tokens and assets
